@@ -5,6 +5,7 @@ Twitterstudy-collect-update.py collects new tweets and update metrics, you may c
 backwards for updating (change value of the varabiable day).
 You need developer account and place your keys.
 Example of an account file is given.
+For more information contact tuomo.raisanen@xamk.fi
 
 
 
