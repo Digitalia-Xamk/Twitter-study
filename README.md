@@ -1,2 +1,2 @@
 # Twitter-study
-Collect tweets to sqlite 
+Collect tweets to sqlite. Twitter
